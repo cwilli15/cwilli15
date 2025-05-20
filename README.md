@@ -13,11 +13,20 @@ I bring together deep industry experience in refinery inspection, predictive ana
 - **Summary**: Built an NLP pipeline to convert free-text doctor’s notes into ICD-10 codes using zero-shot classification.
 - [GitHub Repo »](#)
 
-### 2. **Gym Attendance Prediction**
-- **Tech Stack**: scikit-learn, matplotlib, pandas
-- **Summary**: Created a synthetic dataset and predictive model to identify gym members at risk of churn based on demographics and behavior.
-- Includes decision tree visualizations and feature importance plots.
-- [GitHub Repo »](#)
+### 2. [Chicago Crime Analysis](https://github.com/cwilli15/Chicago-Crime-Analysis)
+
+An interactive data visualization and geospatial analysis of crime in Chicago using the official city dataset from 2001 to present. This project leverages Python libraries such as **GeoPandas**, **Folium**, and **Plotly** to map and interpret crime incidents across multiple years.
+
+**Key Features:**
+- 🗓️ Yearly crime comparisons (2021 & 2022)
+- 🗺️ Heatmaps and marker clusters for interactive visualization
+- 📌 Geo-mapping of major crime types like homicide, theft, and narcotics
+- 📊 Plotly visualizations for crime categories
+- 🧾 Cleaned and parsed raw public dataset from the City of Chicago
+
+> 📍 *Built in Python 3.10 using Jupyter Notebook and geospatial libraries*
+
+🔗 **Repository**: [cwilli15/Chicago-Crime-Analysis](https://github.com/cwilli15/Chicago-Crime-Analysis)
 
 ### 3. **Movie Named Entity Recognition**
 - **Tech Stack**: LLaMA, spaCy, custom prompts
