@@ -8,10 +8,21 @@ I bring together deep industry experience in refinery inspection, predictive ana
 
 ## Projects
 
-### 1. **ICD-10 Medical Coding Bot**
-- **Tech Stack**: LLaMA, HuggingFace Transformers, PyTorch
-- **Summary**: Built an NLP pipeline to convert free-text doctor’s notes into ICD-10 codes using zero-shot classification.
-- [GitHub Repo »](#)
+### 1. [Algo Trading App](https://github.com/cwilli15/Algo-Trading-App)
+
+A comprehensive algorithmic trading application built in Python that integrates multiple quantitative strategies including ARIMA forecasting, moving average crossovers, and momentum-based stock screening. The app performs technical analysis on equities using indicators like RSI, MACD, Bollinger Bands, and generates professional PDF trading reports.
+
+**Key Features:**
+- 📈 Moving average crossover logic (60-day vs. 200-day)
+- 🔮 ARIMA & pmdarima models for stock price forecasting
+- ⚡ Momentum screener for 50+ large-cap stocks with monthly rebalancing
+- 🧠 Technical indicators: RSI, MACD, BB, OBV, Stochastic, ADX, SAR, CMF
+- 📝 Generates PDF reports with chart visualizations and executive summaries
+
+> 🛠️ *Built with Python 3.12, yFinance, pandas-ta, matplotlib, statsmodels, and fpdf*
+
+🔗 **Repository**: [cwilli15/Algo-Trading-App](https://github.com/cwilli15/Algo-Trading-App)
+
 
 ### 2. [Chicago Crime Analysis](https://github.com/cwilli15/Chicago-Crime-Analysis)
 
